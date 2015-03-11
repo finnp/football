@@ -17,7 +17,7 @@ football slides.md
 [reveal-md](https://www.npmjs.com/package/reveal-md)
 
 
-[Screenshot](screen.png)
+![Screenshot](screen.png)
 
 
 It will show you a bar like this
