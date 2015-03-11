@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "./cli.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/finnp/football.git"
@@ -21,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/finnp/football/issues"
   },
-  "homepage": "https://github.com/finnp/football"
+  "homepage": "https://github.com/finnp/football",
+  "dependencies": {
+    "clear": "0.0.1",
+    "cli-md": "^0.1.0",
+    "minimist": "^1.1.0"
+  }
 }
