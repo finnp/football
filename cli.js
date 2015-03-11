@@ -38,7 +38,7 @@ function show() {
 
 function displayBar() {
     charm.push()
-    charm.position(0, process.stdout.rows)    
+    charm.position(0, process.stdout.rows - 1)
     charm.write([
       '[' + (i+1) + '/' + pages.length + ']',
       'hide bar (h)',
