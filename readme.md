@@ -7,6 +7,8 @@ Present markdown slideshows in your terminal.
 
 # usage
 
+Like this?
+
 ```
 football slides.md --time 8000
 ```
