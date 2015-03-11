@@ -16,4 +16,4 @@ football slides.md --time 8000
 `slides.md` has to be a markdown file in the style of
 [reveal-md](https://www.npmjs.com/package/reveal-md)
 
-It will just rotate through the files.
+It will just rotate through the slides.
