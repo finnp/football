@@ -7,13 +7,14 @@ var fs = require('fs')
 var windowSize = require('window-size')
 var charm = require('charm')()
 var chalk = require('chalk')
+var path = require('path')
 require('cli-cursor').hide()
 
 charm.pipe(process.stdout)
 
 var argv = minimist(process.argv.splice(2))
 
-var file = argv._[0]
+var file = argv._[0] || path.join(__dirname, 'help.md')
 var time = Number(argv.time || argv.t || 8000)
 
 var content = fs.readFileSync(file, 'utf-8')
