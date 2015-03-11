@@ -10,10 +10,20 @@ Present markdown slideshows in your terminal.
 Like this?
 
 ```
-football slides.md --time 8000
+football slides.md
 ```
 
 `slides.md` has to be a markdown file in the style of
 [reveal-md](https://www.npmjs.com/package/reveal-md)
 
-It will just rotate through the slides.
+
+[Screenshot](screen.png)
+
+
+It will show you a bar like this
+```
+[1/10] • hide bar (h) • show bar (s) • exit (q) • next (n) • prev (b) • toggle auto off (a)
+```
+
+You can hide this bar with `h`. You can set the time for the automatic rotation with
+`--time <milliseconds`.
