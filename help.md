@@ -1,9 +1,17 @@
 # usage
 
 ```
-football <file.md> [options]
+football <file.md> [options] 
+   ________
+ ||.     . || < Hello, my name is football.
+ ||   ‿    ||
+ ||        ||
+/||--------||\
+ ||===   . ||
+ || +  o  0||
+ ||________||
+    |    |
 ```
-
 Press `space` or `n` for next slide.
 
 ----
