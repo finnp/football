@@ -12,7 +12,7 @@ football <file.md> [options]
  ||________||
     |    |
 ```
-Press `space` or `n` for next slide.
+Press `space` or `n` for next slide. :soccer:
 
 ----
 

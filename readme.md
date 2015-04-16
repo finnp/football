@@ -3,7 +3,7 @@
 
 ![Football](football.gif)
 
-Present markdown slideshows in your terminal.
+Present markdown slideshows in your terminal. Now with github emoji support.
 
 # usage
 

@@ -26,7 +26,7 @@
   "dependencies": {
     "clear": "0.0.1",
     "cli-cursor": "^1.0.1",
-    "cli-md": "^0.1.0",
+    "cli-md": "^1.0.0",
     "minimist": "^1.1.0",
     "window-size": "^0.1.0"
   },
